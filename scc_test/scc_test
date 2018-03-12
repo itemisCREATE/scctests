@@ -1,0 +1,13 @@
+#!/bin/bash
+
+SCRIPT=$(readlink -f "$0")
+SCRIPTPATH=$(dirname "$SCRIPT")
+SCCTEST=$SCRIPTPATH/scc_test.py
+
+if [ ! -z "$1" ]; then
+	cd $1
+fi
+
+echo "Running scc_test in $PWD"
+
+python3 $SCCTEST
