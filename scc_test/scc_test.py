@@ -205,6 +205,10 @@ def print_test_result(testcase):
 
 def run():
     start_dir = pwd()
+
+    if "SCCLOC" not in os.environ:
+        os.environ.set("SCCLOC", os.path.abspath("../products/yakindu-sctpro/scc"))
+
     json_files = find_tests()
     tests = load_tests(json_files)
 
