@@ -18,6 +18,9 @@ This test executor needs to be able to call scc, so make sure it is on
 the PATH. The easiest way to achieve this is by creating a symlink
 /usr/local/bin/scc to the downloaded scc executable.
 
+Another possibility is to set the environment variable SCCLOC to the 
+absolute path to the scc executable.
+
 Given file paths must either be absolute or relative to the testing
 directory, which is either specified or the current (testpath) one.
 

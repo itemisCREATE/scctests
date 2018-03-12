@@ -195,19 +195,8 @@ def after_test(testcase, start_dir):
     testcase.success()
 
 
-def print_test_result(testcase):
-    if not testcase.failed:
-        print("[ OK ] " + testcase.name)
-    else:
-        print("[FAIL] " + testcase.name)
-        print(testcase.fail_reason)
-
-
 def run():
     start_dir = pwd()
-
-    if "SCCLOC" not in os.environ:
-        os.environ.set("SCCLOC", os.path.abspath("../products/yakindu-sctpro/scc"))
 
     json_files = find_tests()
     tests = load_tests(json_files)
