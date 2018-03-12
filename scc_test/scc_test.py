@@ -113,8 +113,11 @@ def files_do_not_exist(files):
 
 
 def call_scc(logfile, options):
+    scc = "scc"
+    if "SCCLOC" in os.environ:
+        scc = os.environ.get("SCCLOC")
     call = wrap_list(options)
-    call.insert(0, "../products/yakindu-sctpro/scc")
+    call.insert(0, scc)
     subprocess.call(call, stdout=logfile, stderr=subprocess.STDOUT)
 
 
