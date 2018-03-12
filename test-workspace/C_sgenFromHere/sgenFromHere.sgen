@@ -1,0 +1,10 @@
+GeneratorModel for yakindu::c {
+	statechart statechartFromHere
+	{
+		feature Outlet {
+			targetProject = "C_codeGoesHere"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}

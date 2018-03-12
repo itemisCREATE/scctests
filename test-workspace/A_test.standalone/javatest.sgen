@@ -1,0 +1,14 @@
+GeneratorModel for sctunit::java {
+
+	test DefaultTest {
+
+		feature Outlet {
+			targetProject = "A_test.standalone"
+			targetFolder = "genJava"
+		}
+
+		feature Naming {
+			basePackage = "org.yakindu.sct"
+		}
+	}
+}

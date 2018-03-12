@@ -1,0 +1,8 @@
+GeneratorModel for yakindu::c {
+	statechart A_SCT {
+		feature Outlet {
+			targetProject = "A_test.standalone"
+			targetFolder = "genC"
+		}
+	}
+}

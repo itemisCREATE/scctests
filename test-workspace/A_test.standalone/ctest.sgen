@@ -1,0 +1,10 @@
+GeneratorModel for sctunit::c {
+
+	test DefaultTest {
+
+		feature Outlet {
+			targetProject = "A_test.standalone"
+			targetFolder = "genC"
+		}
+	}
+}

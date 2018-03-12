@@ -1,0 +1,14 @@
+{
+"path": "A_test.standalone",
+"files":
+[
+"genC/sc_types.h",
+"genC/A_SCT.c",
+"genC/A_SCT.h"
+],
+"options":
+[
+"-m",
+"c.sgen,default.sct"
+]
+}

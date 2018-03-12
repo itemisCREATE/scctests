@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::java {
+	statechart A_SCT {
+		feature Outlet {
+			targetProject = "A_test.standalone"
+			targetFolder = "genJava"
+		}
+		feature Naming {
+			basePackage = "org.yakindu.sct"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+"files":
+[
+"A_test.standalone/genC/sc_types.h",
+"A_test.standalone/genC/A_SCT.c",
+"A_test.standalone/genC/A_SCT.h"
+],
+"options":
+[
+"-m",
+"A_test.standalone/c.sgen,A_test.standalone/default.sct"
+]
+}

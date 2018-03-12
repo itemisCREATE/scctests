@@ -1,0 +1,15 @@
+{
+"path": "A_test.standalone",
+"files":
+[
+"genCPP/sc_types.h",
+"genCPP/A_SCT.cpp",
+"genCPP/A_SCT.h",
+"genCPP/StatemachineInterface.h"
+],
+"options":
+[
+"-m",
+"cpp.sgen,default.sct"
+]
+}

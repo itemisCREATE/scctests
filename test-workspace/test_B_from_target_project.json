@@ -1,0 +1,14 @@
+{
+"path": "B_generateJavaHere",
+"files":
+[
+"src/b_generatejavahere/IStatemachine.java",
+"src-gen/b_generatejavahere/defaultsm/DefaultSMStatemachine.java",
+"src-gen/b_generatejavahere/defaultsm/IDefaultSMStatemachine.java"
+],
+"options":
+[
+"-m",
+"../B_generateToOther/default.sct,../B_generateToOther/generateInOther.sgen"
+]
+}

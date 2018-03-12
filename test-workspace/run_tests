@@ -1,0 +1,10 @@
+#!/bin/bash
+
+SCRIPT=$(readlink -f "$0")
+SCRIPTPATH=$(dirname "$SCRIPT")
+
+SCCPATH=$WORKSPACE/releng/com.yakindu.sctpro.products/product/target/products/sctpro/linux/gtk/x86_64/yakindu-sctpro/
+export PATH=$SCCPATH:$PATH
+
+cd $SCRIPTPATH
+../scc_test/scc_test

@@ -1,0 +1,14 @@
+{
+"files":
+[
+"coffee_machine_pro/src/CoffeeMachine.c",
+"coffee_machine_pro/src/CoffeeMachine.h",
+"coffee_machine_pro/src/CoffeeMachineRequired.h",
+"coffee_machine_pro/src/sc/sc_types.h"
+],
+"options":
+[
+"-m",
+"coffee_machine_pro"
+]
+}

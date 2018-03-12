@@ -1,0 +1,14 @@
+{
+"path": "A_test.standalone",
+"files":
+[
+"genJava/org/yakindu/sct/a_sct/A_SCTStatemachine.java",
+"genJava/org/yakindu/sct/a_sct/IA_SCTStatemachine.java",
+"genJava/org/yakindu/sct/IStatemachine.java"
+],
+"options":
+[
+"-m",
+"java.sgen,default.sct"
+]
+}

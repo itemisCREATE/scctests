@@ -1,0 +1,8 @@
+GeneratorModel for yakindu::java {
+	statechart notExisting {
+		feature Outlet {
+			targetProject = "A_test.standalone"
+			targetFolder = "gen-java"
+		}
+	}
+}

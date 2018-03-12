@@ -1,0 +1,6 @@
+/src-gen/*
+**/*Statemachine.java
+/bin/**
+/.settings/*
+
+

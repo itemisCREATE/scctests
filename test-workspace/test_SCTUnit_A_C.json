@@ -1,0 +1,14 @@
+{
+"path": "A_test.standalone",
+"files":
+[
+"genC/DefaultTest.cc",
+"genC/sc_timer_service.c",
+"genC/sc_timer_service.h"
+],
+"options":
+[
+"-m",
+"ctest.sgen,default.sctunit,default.sct"
+]
+}

@@ -1,0 +1,10 @@
+GeneratorModel for yakindu::c {
+
+	statechart CStatechart {
+
+		feature Outlet {
+			targetProject = "D_deep_C"
+			targetFolder = "gen-c"
+		}
+	}
+}

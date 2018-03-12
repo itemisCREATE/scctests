@@ -1,0 +1,14 @@
+{
+"path": "A_test.standalone",
+"files":
+[
+"genCPP/DefaultTest.cc",
+"genCPP/sc_runner.cpp",
+"genCPP/sc_runner.h"
+],
+"options":
+[
+"-m",
+"cpptest.sgen,default.sctunit,default.sct"
+]
+}
