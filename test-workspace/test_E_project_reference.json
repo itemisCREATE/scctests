@@ -1,0 +1,13 @@
+{
+"files":
+[
+"E_deep_C_ref_D/gen-c/CStatechart2.c",
+"E_deep_C_ref_D/gen-c/CStatechart2.h",
+"E_deep_C_ref_D/gen-c/sc_types.h"
+],
+"options":
+[
+"-m",
+"E_deep_C_ref_D"
+]
+}

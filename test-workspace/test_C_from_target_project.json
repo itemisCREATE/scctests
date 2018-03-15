@@ -1,0 +1,14 @@
+{
+"path": "C_codeGoesHere",
+"files":
+[
+"src/sc_types.h",
+"src-gen/StatechartFromHere.c",
+"src-gen/StatechartFromHere.h"
+],
+"options":
+[
+"-m",
+"../C_sgenFromHere/sgenFromHere.sgen,../C_statechartFromHere/statechartFromHere.sct"
+]
+}
