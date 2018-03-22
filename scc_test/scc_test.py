@@ -210,6 +210,13 @@ def run():
         before_test(testcase)
         test_action(testcase, logfile)
         after_test(testcase, start_dir)
+        logfile.close()
+
+        logfile = open(logfile_name, "r")
+        for line in logfile:
+            print(line,end='')
+
+        logfile.seek(0)
 
         if testcase.failed:
             failed += 1
