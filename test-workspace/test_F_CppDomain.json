@@ -1,0 +1,14 @@
+{
+"files":
+[
+"F_deep_CPP/gen-c/default.cpp",
+"F_deep_CPP/gen-c/default.h",
+"DF_deep_CPP/gen-c/sc_types.h"
+],
+"options":
+[
+"-m",
+"F_deep_CPP"
+]
+}
+
