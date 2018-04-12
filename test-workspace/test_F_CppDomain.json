@@ -1,9 +1,9 @@
 {
 "files":
 [
-"F_deep_CPP/gen-c/default.cpp",
-"F_deep_CPP/gen-c/default.h",
-"F_deep_CPP/gen-c/sc_types.h"
+"F_deep_CPP/src-gen/default.cpp",
+"F_deep_CPP/src-gen/default.h",
+"F_deep_CPP/src-gen/sc_types.h"
 ],
 "options":
 [
