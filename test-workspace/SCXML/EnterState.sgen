@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::scxml {
+
+	statechart EnterState {
+
+		feature Outlet {
+			targetProject = "SCXML"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}

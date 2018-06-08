@@ -1,0 +1,10 @@
+GeneratorModel for sctunit::scxml::qt {
+
+	test EnterStateTest {
+
+		feature Outlet {
+			targetProject = "SCXML"
+			targetFolder = "test-gen"
+		}
+	}
+}
