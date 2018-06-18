@@ -3,10 +3,8 @@
 "files":
 [
 "src-gen/EnterState.scxml",
-"test-gen/QtSCTUnit/src/abstractqtunittests.cpp",
-"test-gen/QtSCTUnit/src/abstractqtunittests.h",
-"test-gen/QtSCTUnit/src/enterstatetest.cpp",
-"test-gen/QtSCTUnit/src/testsuite.cpp",
-"test-gen/QtSCTUnit/src/testsuite.h"
+"test-gen/QtSCTUnit/src/abstractqtunittest.cpp",
+"test-gen/QtSCTUnit/src/abstractqtunittest.h",
+"test-gen/QtSCTUnit/src/enterstatetest.cpp"
 ]
 }
