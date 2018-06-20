@@ -1,0 +1,9 @@
+testclass CSCTUnit for statechart CStatechart2 {
+	
+	@Test
+	operation test() {
+		enter
+
+		exit
+	}
+}

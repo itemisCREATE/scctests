@@ -1,0 +1,10 @@
+GeneratorModel for sctunit::c {
+
+	test CStatechart {
+
+		feature Outlet {
+			targetProject = "D_deep_C"
+			targetFolder = "gen-c-sctunit"
+		}
+	}
+}

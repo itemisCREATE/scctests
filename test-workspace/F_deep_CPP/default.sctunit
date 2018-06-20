@@ -1,0 +1,9 @@
+testclass ^default for statechart ^default {
+	
+	@Test
+	operation test() {
+		enter
+		h = h
+		exit
+	}
+}

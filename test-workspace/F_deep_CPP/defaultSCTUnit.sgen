@@ -1,0 +1,10 @@
+GeneratorModel for sctunit::cpp {
+
+	test default {
+
+		feature Outlet {
+			targetProject = "F_deep_CPP"
+			targetFolder = "src-gen"
+		}
+	}
+}

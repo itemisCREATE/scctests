@@ -1,0 +1,14 @@
+{
+"path": "D_deep_C",
+"files":
+[
+"gen-c-sctunit/DefaultTest.cc",
+"gen-c-sctunit/sc_timer_service.c",
+"gen-c-sctunit/sc_timer_service.h"
+],
+"options":
+[
+"-m",
+"F_deep_CPP"
+]
+}

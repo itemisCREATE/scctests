@@ -1,0 +1,9 @@
+testclass CStatechart for statechart CStatechart {
+	
+	@Test
+	operation test() {
+		enter
+		assert called printf()
+		exit
+	}
+}

@@ -1,0 +1,10 @@
+GeneratorModel for sctunit::c {
+
+	test CSCTUnit {
+
+		feature Outlet {
+			targetProject = "E_deep_C_ref_D"
+			targetFolder = "gen-c-sctunit"
+		}
+	}
+}
