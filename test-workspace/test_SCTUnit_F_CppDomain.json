@@ -2,8 +2,8 @@
 "files":
 [
 "F_deep_CPP/gen-c-sctunit/DefaultTest.cc",
-"F_deep_CPP/gen-c-sctunit/sc_timer_service.c",
-"F_deep_CPP/gen-c-sctunit/sc_timer_service.h"
+"F_deep_CPP/gen-c-sctunit/sc_runner.cpp",
+"F_deep_CPP/gen-c-sctunit/sc_runner.h"
 ],
 "options":
 [
