@@ -10,4 +10,6 @@
 
 int16_t extIntArr = 1;
 
-
+void printInt(int input) {
+	printf(input);
+}
