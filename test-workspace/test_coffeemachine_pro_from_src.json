@@ -1,0 +1,10 @@
+{
+"path": "coffee_machine_pro/src/",
+"files":
+[
+"CoffeeMachine.c",
+"CoffeeMachine.h",
+"CoffeeMachineRequired.h",
+"sc/sc_types.h"
+]
+}
