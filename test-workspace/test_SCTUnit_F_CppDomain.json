@@ -1,7 +1,7 @@
 {
 "files":
 [
-"F_deep_CPP/gen-c-sctunit/DefaultTest.cc",
+"F_deep_CPP/gen-c-sctunit/Default.cc",
 "F_deep_CPP/gen-c-sctunit/sc_runner.cpp",
 "F_deep_CPP/gen-c-sctunit/sc_runner.h"
 ],
