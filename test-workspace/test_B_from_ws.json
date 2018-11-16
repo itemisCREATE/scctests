@@ -2,8 +2,8 @@
 "files":
 [
 "B_generateJavaHere/src/b_generatejavahere/IStatemachine.java",
-"B_generateJavaHere/src-gen/b_generatejavahere/defaultsm/DefaultSMStatemachine.java",
-"B_generateJavaHere/src-gen/b_generatejavahere/defaultsm/IDefaultSMStatemachine.java"
+"B_generateJavaHere/src-gen/b_generatejavahere/b_sct/B_SCTStatemachine.java",
+"B_generateJavaHere/src-gen/b_generatejavahere/b_sct/IB_SCTStatemachine.java"
 ],
 "options":
 [

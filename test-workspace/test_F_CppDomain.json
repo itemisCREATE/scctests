@@ -1,8 +1,8 @@
 {
 "files":
 [
-"F_deep_CPP/src-gen/Default.cpp",
-"F_deep_CPP/src-gen/Default.h",
+"F_deep_CPP/src-gen/CHeadder.cpp",
+"F_deep_CPP/src-gen/CHeader.h",
 "F_deep_CPP/src/sc_types.h"
 ],
 "options":

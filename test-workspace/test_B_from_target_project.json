@@ -3,8 +3,8 @@
 "files":
 [
 "src/b_generatejavahere/IStatemachine.java",
-"src-gen/b_generatejavahere/defaultsm/DefaultSMStatemachine.java",
-"src-gen/b_generatejavahere/defaultsm/IDefaultSMStatemachine.java"
+"src-gen/b_generatejavahere/b_sct/B_SCTStatemachine.java",
+"src-gen/b_generatejavahere/b_sct/IB_SCTStatemachine.java"
 ],
 "options":
 [
