@@ -1,4 +1,4 @@
-testclass ^default for statechart ^default {
+testclass ^default for statechart CHeader {
 	
 	@Test
 	operation test() {

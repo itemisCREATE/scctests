@@ -1,6 +1,6 @@
 GeneratorModel for yakindu::cpp {
 
-	statechart default {
+	statechart CHeader {
 
 		feature Outlet {
 			targetProject = "F_deep_CPP"
