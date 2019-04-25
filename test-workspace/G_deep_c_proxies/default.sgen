@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::c {
+
+	statechart G_deep_c_proxies {
+
+		feature Outlet {
+			targetProject = "G_deep_c_proxies"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+} 
