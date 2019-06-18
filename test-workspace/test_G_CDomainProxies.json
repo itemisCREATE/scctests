@@ -1,8 +1,8 @@
 {
 "files":
 [
-"G_deep_c_proxies/src-gen/Default.c",
-"G_deep_c_proxies/src-gen/Default.h",
+"G_deep_c_proxies/src-gen/G_deep_c_proxies.c",
+"G_deep_c_proxies/src-gen/G_deep_c_proxies.h",
 "G_deep_c_proxies/src/sc_types.h"
 ],
 "options":
