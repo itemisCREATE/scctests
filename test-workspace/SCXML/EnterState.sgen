@@ -5,7 +5,6 @@ GeneratorModel for yakindu::scxml {
 		feature Outlet {
 			targetProject = "SCXML"
 			targetFolder = "src-gen"
-			libraryTargetFolder = "src"
 		}
 	}
 }

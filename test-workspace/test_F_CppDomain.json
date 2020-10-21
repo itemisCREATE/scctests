@@ -3,7 +3,8 @@
 [
 "F_deep_CPP/src-gen/CHeader.cpp",
 "F_deep_CPP/src-gen/CHeader.h",
-"F_deep_CPP/src/sc_types.h"
+"F_deep_CPP/src/sc_types.h",
+"F_deep_CPP/src/sc_statemachine.h"
 ],
 "options":
 [

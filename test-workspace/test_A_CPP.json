@@ -5,7 +5,7 @@
 "genCPP/sc_types.h",
 "genCPP/A_SCT.cpp",
 "genCPP/A_SCT.h",
-"genCPP/StatemachineInterface.h"
+"genCPP/sc_statemachine.h"
 ],
 "options":
 [

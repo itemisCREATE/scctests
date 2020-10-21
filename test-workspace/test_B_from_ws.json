@@ -1,9 +1,8 @@
 {
 "files":
 [
-"B_generateJavaHere/src/b_generatejavahere/IStatemachine.java",
-"B_generateJavaHere/src-gen/b_generatejavahere/b_sct/B_SCTStatemachine.java",
-"B_generateJavaHere/src-gen/b_generatejavahere/b_sct/IB_SCTStatemachine.java"
+"B_generateJavaHere/src/com/yakindu/core/IStatemachine.java",
+"B_generateJavaHere/src-gen/B_SCT.java"
 ],
 "options":
 [

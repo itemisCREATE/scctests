@@ -3,7 +3,7 @@ testclass ^default for statechart CHeader {
 	@Test
 	operation test() {
 		enter
-		h = h
+
 		exit
 	}
 }

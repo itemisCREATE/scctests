@@ -5,6 +5,8 @@
 "src-gen/EnterState.scxml",
 "test-gen/QtSCTUnit/src/abstractqtunittest.cpp",
 "test-gen/QtSCTUnit/src/abstractqtunittest.h",
-"test-gen/QtSCTUnit/src/enterstatetest.cpp"
+"test-gen/QtSCTUnit/src/enterstatetest.cpp",
+"test-gen/QtSCTUnit/src/enterstatetest.h",
+"test-gen/QtSCTUnit/src/testrunner.cpp"
 ]
 }

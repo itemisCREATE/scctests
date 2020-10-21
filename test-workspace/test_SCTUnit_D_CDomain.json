@@ -2,7 +2,7 @@
 "path": "D_deep_C",
 "files":
 [
-"gen-c-sctunit/CStatechartTest.cc",
+"gen-c-sctunit/CStatechart_test.cc",
 "gen-c-sctunit/sc_timer_service.c",
 "gen-c-sctunit/sc_timer_service.h"
 ],

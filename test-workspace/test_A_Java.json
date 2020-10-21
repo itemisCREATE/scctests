@@ -2,9 +2,8 @@
 "path": "A_test.standalone",
 "files":
 [
-"genJava/org/yakindu/sct/a_sct/A_SCTStatemachine.java",
-"genJava/org/yakindu/sct/a_sct/IA_SCTStatemachine.java",
-"genJava/org/yakindu/sct/IStatemachine.java"
+"genJava/org/yakindu/sct/A_SCT.java",
+"genJava/com/yakindu/core/IStatemachine.java"
 ],
 "options":
 [

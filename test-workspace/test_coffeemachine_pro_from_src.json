@@ -4,7 +4,7 @@
 [
 "CoffeeMachine.c",
 "CoffeeMachine.h",
-"CoffeeMachineRequired.h",
+"CoffeeMachine_required.h",
 "sc/sc_types.h"
 ]
 }

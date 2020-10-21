@@ -3,8 +3,8 @@
 "files":
 [
 "src/sc_types.h",
-"src-gen/StatechartFromHere.c",
-"src-gen/StatechartFromHere.h"
+"src-gen/statechartFromHere.c",
+"src-gen/statechartFromHere.h"
 ],
 "options":
 [

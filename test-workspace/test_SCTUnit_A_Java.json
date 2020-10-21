@@ -2,10 +2,7 @@
 "path": "A_test.standalone",
 "files":
 [
-"genJava/org/yakindu/sct/DefaultTest.java",
-"genJava/org/yakindu/sct/ITimer.java",
-"genJava/org/yakindu/sct/ITimerCallback.java",
-"genJava/org/yakindu/sct/VirtualTimer.java"
+"genJava/org/yakindu/sct/DefaultTest.java"
 ],
 "options":
 [

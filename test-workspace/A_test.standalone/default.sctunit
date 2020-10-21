@@ -5,7 +5,6 @@ testclass DefaultTest for statechart A_SCT {
 		assert active ( A_SCT.main_region.A )
 		assert value == 42 
 		raise event1
-		proceed 1 cycle
 		assert active (A_SCT.main_region.B)
 		assert value == 43 
 		exit
