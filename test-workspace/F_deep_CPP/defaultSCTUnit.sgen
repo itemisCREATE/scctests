@@ -1,6 +1,6 @@
 GeneratorModel for sctunit::cpp {
 
-	test default {
+	test ^default {
 
 		feature Outlet {
 			targetProject = "F_deep_CPP"
