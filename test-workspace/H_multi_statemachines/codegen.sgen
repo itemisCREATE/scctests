@@ -1,0 +1,24 @@
+GeneratorModel for yakindu::c {
+
+	const PROJECT : string = "MultiStatemachineTest"
+
+	const FOLDER : string = "src-gen"
+
+	statechart Child {
+
+		feature Outlet {
+			targetProject = PROJECT
+			targetFolder = FOLDER
+			libraryTargetFolder = "src"
+		}
+	}
+
+	statechart Parent {
+
+		feature Outlet {
+			targetProject = PROJECT
+			targetFolder = FOLDER
+			libraryTargetFolder = "src"
+		}
+	}
+}

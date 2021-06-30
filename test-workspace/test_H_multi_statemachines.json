@@ -1,0 +1,10 @@
+{
+"path": "H_multi_statemachines",
+"files":
+[
+"src-gen/Child.h",
+"src-gen/Child.c",
+"src-gen/Parent.h",
+"src-gen/Parent.c"
+]
+}
