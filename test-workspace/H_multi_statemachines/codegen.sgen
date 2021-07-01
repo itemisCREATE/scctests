@@ -1,6 +1,6 @@
 GeneratorModel for yakindu::c {
 
-	const PROJECT : string = "MultiStatemachineTest"
+	const PROJECT : string = "H_multi_statemachines"
 
 	const FOLDER : string = "src-gen"
 
