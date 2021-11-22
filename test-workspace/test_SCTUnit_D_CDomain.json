@@ -3,8 +3,8 @@
 "files":
 [
 "gen-c-sctunit/CStatechart_test.cc",
-"gen-c-sctunit/sc_timer_service.c",
-"gen-c-sctunit/sc_timer_service.h"
+"gen-c-sctunit/sc_unit_timer_service.c",
+"gen-c-sctunit/sc_unit_timer_service.h"
 ],
 "options":
 [

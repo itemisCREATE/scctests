@@ -3,8 +3,8 @@
 "files":
 [
 "genC/DefaultTest.cc",
-"genC/sc_timer_service.c",
-"genC/sc_timer_service.h"
+"genC/sc_unit_timer_service.c",
+"genC/sc_unit_timer_service.h"
 ],
 "options":
 [
