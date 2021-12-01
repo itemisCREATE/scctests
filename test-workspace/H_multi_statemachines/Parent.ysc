@@ -8,8 +8,8 @@
       <vertices xsi:type="sgraph:State" xmi:id="_vfYy1rinEeu5BavnaQdmog" name="StateA" incomingTransitions="_vfYy1binEeu5BavnaQdmog _vfaA8rinEeu5BavnaQdmog">
         <outgoingTransitions xmi:id="_vfZZ4rinEeu5BavnaQdmog" specification="myEvent" target="_vfZZ6binEeu5BavnaQdmog"/>
       </vertices>
-      <vertices xsi:type="sgraph:State" xmi:id="_vfZZ6binEeu5BavnaQdmog" name="StateB" incomingTransitions="_vfZZ4rinEeu5BavnaQdmog">
-        <outgoingTransitions xmi:id="_vfaA8rinEeu5BavnaQdmog" specification="myEvent" target="_vfYy1rinEeu5BavnaQdmog"/>
+      <vertices xsi:type="sgraph:State" xmi:id="_vfZZ6binEeu5BavnaQdmog" specification="entry / raise c.myEvent" name="StateB" incomingTransitions="_vfZZ4rinEeu5BavnaQdmog">
+        <outgoingTransitions xmi:id="_vfaA8rinEeu5BavnaQdmog" specification="c.myOutEvent" target="_vfYy1rinEeu5BavnaQdmog"/>
       </vertices>
     </regions>
   </sgraph:Statechart>

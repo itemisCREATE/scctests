@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:sgraph="http://www.yakindu.org/sct/sgraph/2.0.0">
-  <sgraph:Statechart xmi:id="_zHVJ4LinEeu5BavnaQdmog" specification="// Use the event driven execution model.&#xA;// Switch to cycle based behavior&#xA;// by specifying '@CycleBased(200)'.&#xA;@EventDriven&#xA;&#xA;// Use @SuperSteps(yes) to enable&#xA;// super step semantics.&#xA;@SuperSteps(no)&#xA;&#xA;interface:&#xA;&#x9;// Define events and variables here. &#xA;&#x9;// Use CTRL + Space for content assist.&#xA;&#x9;in event myEvent" name="Child">
+  <sgraph:Statechart xmi:id="_zHVJ4LinEeu5BavnaQdmog" specification="// Use the event driven execution model.&#xA;// Switch to cycle based behavior&#xA;// by specifying '@CycleBased(200)'.&#xA;@EventDriven&#xA;&#xA;// Use @SuperSteps(yes) to enable&#xA;// super step semantics.&#xA;@SuperSteps(no)&#xA;&#xA;interface:&#xA;&#x9;// Define events and variables here. &#xA;&#x9;// Use CTRL + Space for content assist.&#xA;&#x9;in event myEvent&#xA;&#x9;out event myOutEvent" name="Child">
     <regions xmi:id="_zHW_E7inEeu5BavnaQdmog" name="main region">
       <vertices xsi:type="sgraph:Entry" xmi:id="_zHW_FLinEeu5BavnaQdmog">
         <outgoingTransitions xmi:id="_zHW_FbinEeu5BavnaQdmog" target="_zHW_FrinEeu5BavnaQdmog"/>
@@ -8,7 +8,7 @@
       <vertices xsi:type="sgraph:State" xmi:id="_zHW_FrinEeu5BavnaQdmog" name="StateA" incomingTransitions="_zHW_FbinEeu5BavnaQdmog _zHXmK7inEeu5BavnaQdmog">
         <outgoingTransitions xmi:id="_zHXmIbinEeu5BavnaQdmog" specification="myEvent" target="_zHXmKLinEeu5BavnaQdmog"/>
       </vertices>
-      <vertices xsi:type="sgraph:State" xmi:id="_zHXmKLinEeu5BavnaQdmog" name="StateB" incomingTransitions="_zHXmIbinEeu5BavnaQdmog">
+      <vertices xsi:type="sgraph:State" xmi:id="_zHXmKLinEeu5BavnaQdmog" specification="entry / raise myOutEvent" name="StateB" incomingTransitions="_zHXmIbinEeu5BavnaQdmog">
         <outgoingTransitions xmi:id="_zHXmK7inEeu5BavnaQdmog" specification="myEvent" target="_zHW_FrinEeu5BavnaQdmog"/>
       </vertices>
     </regions>
