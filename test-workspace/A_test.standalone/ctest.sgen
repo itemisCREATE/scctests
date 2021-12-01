@@ -6,5 +6,14 @@ GeneratorModel for sctunit::c {
 			targetProject = "A_test.standalone"
 			targetFolder = "genC"
 		}
+		feature LicenseHeader {
+            licenseText = 
+            	"\n SCTVERSION=" + SCTVERSION + 
+            	"\n SCTFILE=" + SCTFILE + 
+            	"\n SHA256=" + SHA256 + 
+            	"\n USER=" + USER +
+            	"\n HOSTNAME=" + HOSTNAME +
+            	"\n TIMESTAMP=" + TIMESTAMP
+        }
 	}
 }
