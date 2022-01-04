@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:sgraph="http://www.yakindu.org/sct/sgraph/2.0.0">
-  <sgraph:Statechart xmi:id="_ZZoZIBfZEeiGpO_Zv28pVw" specification="import: &quot;HHead.h&quot;&#xA;import: &quot;HHHead.hh&quot;&#xA;import: &quot;HPPHead.hpp&quot;&#xA;import: &quot;HXXHead.hxx&quot;&#xA;import: &quot;INCHead.inc&quot;&#xA;&#xA;internal:&#xA;var h:HHead&#xA;var hh:HHHead&#xA;var hpp:HPPHead&#xA;var hxx:HXXHead&#xA;var inc:INCHead&#xA;&#xA; " name="CHeader" domainID="com.yakindu.domain.c">
+  <sgraph:Statechart xmi:id="_ZZoZIBfZEeiGpO_Zv28pVw" specification="import: &quot;HHead.h&quot;&#xA;import: &quot;HHHead.hh&quot;&#xA;import: &quot;HPPHead.hpp&quot;&#xA;import: &quot;HXXHead.hxx&quot;&#xA;import: &quot;INCHead.inc&quot;&#xA;import: &quot;Namespaces.h&quot;&#xA;&#xA;internal:&#xA;var h:HHead&#xA;var hh:HHHead&#xA;var hpp:HPPHead&#xA;var hxx:HXXHead&#xA;var inc:INCHead&#xA;&#xA;var nsp:NSP.Inner.Namespaced&#xA;&#xA; " name="CHeader" domainID="com.yakindu.domain.c">
     <regions xmi:id="_ZZsDgxfZEeiGpO_Zv28pVw" name="main region">
       <vertices xsi:type="sgraph:Entry" xmi:id="_ZZw8ABfZEeiGpO_Zv28pVw">
         <outgoingTransitions xmi:id="_ZZ1NcRfZEeiGpO_Zv28pVw" target="_ZZyxMBfZEeiGpO_Zv28pVw"/>
